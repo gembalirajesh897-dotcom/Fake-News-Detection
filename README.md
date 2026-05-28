@@ -2,12 +2,12 @@
 
 A Machine Learning-based web application that detects whether a news article is Real or Fake using Natural Language Processing (NLP) techniques.
 
-📌 Project Overview
+#📌 Project Overview
 
 This project uses Machine Learning and NLP to classify news articles as real or fake.
 The model is trained using text preprocessing techniques and classification algorithms to improve prediction accuracy.
 
-🚀 Features
+#🚀 Features
 -> Fake News Classification
 -> NLP-based Text Processing
 -> TF-IDF Vectorization
@@ -15,7 +15,7 @@ The model is trained using text preprocessing techniques and classification algo
 -> Accurate News Detection
 -> Data Preprocessing & Cleaning
 
-🛠 Technologies Used
+#🛠 Technologies Used
 -> Python
 -> Machine Learning
 -> Natural Language Processing (NLP)
@@ -25,7 +25,7 @@ The model is trained using text preprocessing techniques and classification algo
 -> NLTK
 -> Evaluation Matrix
 
-📂 Project Structure
+##📂 Project Structure
 
 Fake-News-Detection/
 │
@@ -36,7 +36,7 @@ Fake-News-Detection/
 ├── requirements.txt
 └── README.md
 
-📊 Machine Learning Workflow
+#📊 Machine Learning Workflow
 
 1. Data Collection
 2. Data Cleaning
@@ -45,30 +45,30 @@ Fake-News-Detection/
 5. Model Training
 6. Prediction
 
-📈 Algorithms Used
+#📈 Algorithms Used
 
 -> Logistic Regression
 -> Passive Aggressive Classifier
 -> Naive Bayes
 
-🧠 NLP Techniques Used
+#🧠 NLP Techniques Used
 
 -> Tokenization
 -> Stopword Removal
 -> Stemming
 
-📊 Evaluation Metrics
+#📊 Evaluation Metrics
 
 -> Accuracy Score
 -> Confusion Matrix
 -> Classification Report
 
-📌 Future Improvements
+#📌 Future Improvements
 
 -> Deep Learning Integration
 -> Real-time News Verification
 -> Improved Prediction Accuracy
 -> Large Dataset Training
 
-👨‍💻 Author
+#👨‍💻 Author
 Rajesh
